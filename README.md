@@ -1,4 +1,4 @@
-<h1>Pokemon Game - Python</h1>
+<h1>Pokemon Hunt - Python Game</h1>
 Kristopher Ilich's personal python pokemon themed game based off the classic Duck Hunt. The application uses collision, loops, graphics and more! <br>
 This application was created in one day as an excercise to practice python coding.
 
